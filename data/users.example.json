@@ -1,0 +1,6 @@
+[
+  { "name": "גבריאל", "code": "CHANGE_ME_ADMIN_CODE", "role": "admin" },
+  { "name": "משתמש א", "code": "CHANGE_ME_1111", "role": "user" },
+  { "name": "משתמש ב", "code": "CHANGE_ME_2222", "role": "user" },
+  { "name": "משתמש ג", "code": "CHANGE_ME_3333", "role": "user" }
+]
